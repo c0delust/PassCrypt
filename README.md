@@ -1,6 +1,6 @@
 # PassCrypt - Password Manager
 
-✅ AES - 256 Encryption
-✅ User Friendly Interface
-✅ Local Storage
-✅ Master Password Reset
+✅ AES - 256 Encryption <br>
+✅ User Friendly Interface <br>
+✅ Local Storage <br>
+✅ Master Password Reset <br>
