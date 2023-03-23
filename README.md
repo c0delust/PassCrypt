@@ -1,1 +1,1 @@
-# PassCrypt
+# PassCrypt - Password Manager
