@@ -4,7 +4,6 @@ PassCrypt is a password manager project that securely stores user credentials lo
 
 ✅ AES - 256 Encryption <br>
 ✅ MD5 Hash <br>
-✅ User Friendly Interface <br>
 ✅ Local Storage <br>
 ✅ Resetable Master Password <br><br>
 
