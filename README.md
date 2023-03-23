@@ -8,4 +8,4 @@ PassCrypt is a password manager project that securely stores user credentials lo
 ✅ Local Storage <br>
 ✅ Resetable Master Password <br><br>
 
-## IDE: Apache NetBeans
+### IDE: Apache NetBeans
